@@ -8,7 +8,10 @@ name: Link check
 on:
   push:
     branches: [main]
-  pull_request:
+  # Deliberately NOT triggered by pull_request. lychee probes ~30 third-party CDNs,
+  # so one transient network error on one of them turned a PR that had only touched
+  # a YAML file red. That is noise, not signal. The weekly run below is the safety
+  # net for links that genuinely rot between commits.
   schedule:
     # Every Monday at 02:00 UTC
     - cron: '0 2 * * 1'
