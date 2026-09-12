@@ -1,0 +1,37 @@
+name: Link check
+
+# The profile README pulls ~30 icons from third-party CDNs (devicon via jsDelivr,
+# shields.io, githubassets, a Discord invite). Any of them can start returning 404
+# without warning, and a broken icon is invisible until somebody looks closely.
+# This workflow fails the build instead.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Every Monday at 02:00 UTC
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Check every link in the README
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --retry-wait-time 5
+            --accept 200..=299,403,429
+            --exclude '^https://(www\.)?(twitter|x|instagram)\.com'
+            README.md
+          fail: true
