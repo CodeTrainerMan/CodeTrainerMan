@@ -9,25 +9,13 @@
 
 ## 🧑💻 About Me
 
+- 🚀 &nbsp;**10 years** of development experience
 - 🤖 &nbsp;**AI engineer** — LLM apps, agents, RAG and applied computer vision
 - ⛓️ &nbsp;**Web3** — smart contracts, on-chain data, wallet &amp; DApp tooling
 - 🛒 &nbsp;**Cross-border e-commerce** — merchant automation, listing &amp; operations tooling, data pipelines
 - 🌱 &nbsp;Currently going deeper into **agentic workflows**, **Rust** and **Solidity**
+- 🀄 &nbsp;In my spare time I **teach foreigners Chinese** — you are welcome to join my Chinese learning Discord: **https://discord.gg/4kZ7nETEEc**
 - 💬 &nbsp;Ask me about **TypeScript**, **Node.js**, **Java / Spring**, **Go**, **Docker** &amp; **Kubernetes**
-- 📫 &nbsp;Reach me at **nmgsykj@gmail.com**
-
-###
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeTrainerMan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeTrainerMan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -123,14 +111,14 @@
   <a href="https://www.instagram.com/nmgsykj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:nmgsykj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://t.me/william_coder" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://twitter.com/TrainCodeMan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.gg/4kZ7nETEEc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 
 </div>
