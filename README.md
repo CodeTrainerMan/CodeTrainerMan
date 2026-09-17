@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! I'm william — an AI engineer</h2>
 
 <p align="left">
-  I build <b>AI-powered tools for Web3 and cross-border e-commerce</b>.<br/>
-  I turn LLMs, agents and data pipelines into products people actually ship with — from on-chain tooling and wallet / DApp infrastructure, to merchant-side automation and growth workflows.
+  I build <b>AI-powered tools for cross-border e-commerce</b>.<br/>
+  I turn LLMs, agents and data pipelines into products people actually ship with — merchant-side automation, listing and operations tooling, and growth workflows.
 </p>
 
 ###
@@ -11,9 +11,8 @@
 
 - 🚀 &nbsp;**10 years** of development experience
 - 🤖 &nbsp;**AI engineer** — LLM apps, agents, RAG and applied computer vision
-- ⛓️ &nbsp;**Web3** — smart contracts, on-chain data, wallet &amp; DApp tooling
 - 🛒 &nbsp;**Cross-border e-commerce** — merchant automation, listing &amp; operations tooling, data pipelines
-- 🌱 &nbsp;Currently going deeper into **agentic workflows**, **Rust** and **Solidity**
+- 🌱 &nbsp;Currently going deeper into **agentic workflows** and **Rust**
 - 🀄 &nbsp;In my spare time I **teach foreigners Chinese** — you are welcome to join my Chinese learning Discord: **https://discord.gg/4kZ7nETEEc**
 - 💬 &nbsp;Ask me about **TypeScript**, **Node.js**, **Java / Spring**, **Go**, **Docker** &amp; **Kubernetes**
 
@@ -93,14 +92,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-</div>
-
-**Web3**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="30" alt="polygon logo"  />
 </div>
 
 ###
